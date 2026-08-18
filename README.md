@@ -5,7 +5,6 @@
 **Theme:** Neon · **Style:** Creative · **Agent:** Full-Stack Engineer
 
 ## Header
-Hi, I'm **amanrazaansarii**. This README is tuned for **founder** with a Neon visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=amanrazaansarii&theme=neon&mode=light" />
@@ -13,7 +12,6 @@ Hi, I'm **amanrazaansarii**. This README is tuned for **founder** with a Neon vi
   </picture>
 </p>
 ## About Me
-Shapes the short profile story and positioning.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=amanrazaansarii&theme=neon&mode=light" />
@@ -21,7 +19,6 @@ Shapes the short profile story and positioning.
   </picture>
 </p>
 ## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=amanrazaansarii&theme=neon&mode=light" />
@@ -29,7 +26,6 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
   </picture>
 </p>
 ## GitHub Stats
-GitSkins stat widgets will use the **Neon** theme.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=amanrazaansarii&theme=neon&mode=light" />
@@ -37,7 +33,6 @@ GitSkins stat widgets will use the **Neon** theme.
   </picture>
 </p>
 ## Projects
-Highlights repositories as proof of work.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amanrazaansarii&theme=neon&mode=light" />
@@ -45,7 +40,6 @@ Highlights repositories as proof of work.
   </picture>
 </p>
 ## Heatmap
-Animated year-long contribution calendar.
 ## Connect
 Email: amanrazaansariii@gmail.com
 <p align="center">
